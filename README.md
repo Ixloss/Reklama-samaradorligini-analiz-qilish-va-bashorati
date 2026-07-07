@@ -46,4 +46,4 @@ Model ma'lumotlarni o'rganib, quyidagi aniqlik ko'rsatkichlarini qayd etdi:
 
 1. Repozitoriyani yuklab oling:
    `bash
-   git clone [https://github.com/SizningProfile/repo-nomi.git](https://github.com/Ixloss/repo-nomi.git)
+   git clone [https://github.com/SizningProfile/repo-nomi.git](https://github.com/Ixloss/Reklama-samaradorligi-analizi-va-bashorati.git)
